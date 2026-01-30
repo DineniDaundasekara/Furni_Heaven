@@ -1,19 +1,28 @@
-# Furni_heaven
-</br>🪑 Furniture Ware – Smart Furniture Management Platform
-</br>Furniture Ware is a comprehensive furniture management web application designed to streamline inventory, sales, and supplier operations for furniture businesses. This platform offers end-to-end functionality, from managing stock and processing customer orders to </br>handling deliveries and suppliers.
+# 🪑 Furniture Ware – Smart Furniture Management Platform
 
-</br>🚀 Core Features
-</br>📦 Inventory Management
-</br>Efficiently track and manage furniture stock, including product categories, quantities, and updates.
+Furniture Ware is a full-stack web application designed to streamline furniture business operations by managing inventory, orders, suppliers, and deliveries through a modern and responsive interface.
 
-</br>🛒 Cart & Payment System
-</br>Users can add products to a cart, proceed to secure checkout, and complete payments with ease.
+## 🔧 Tech Stack
+- **Frontend:** React, Tailwind CSS
+- **Backend:** Spring Boot
+- **Database:** MongoDB
+- **Others:** RESTful APIs, Axios
 
-</br>🚚 Delivery Management
-</br>Assign and track delivery operations, ensuring customers receive their furniture on time.
+## 🚀 Key Features
+- Inventory management with CRUD functionality
+- Cart and checkout UI flow
+- Supplier and delivery management interfaces
+- Responsive admin dashboards
 
-</br>📤 Supplier Management
-</br>Manage supplier profiles, supply requests, and restock operations seamlessly.
+## 🌟 Special Feature
+- AI-based furniture design visualization (frontend UI integration)
 
-</br>🌟 Special Feature: AI Design Generator
-</br>An intelligent AI-powered tool that helps customers visualize furniture arrangements and interior setups based on their room layout and style preferences.
+## 👩‍💻 My Role (Frontend)
+- Designed responsive UI layouts using React and Tailwind CSS  
+- Implemented CRUD forms and tables  
+- Integrated frontend components with REST APIs  
+- Built user-friendly dashboards and admin panels
+
+## 📌 Status
+Completed – actively improving UI and UX
+
